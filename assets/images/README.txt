@@ -1,0 +1,1 @@
+Web site image assets.
